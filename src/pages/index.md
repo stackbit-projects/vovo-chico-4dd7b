@@ -10,7 +10,7 @@ sections:
       - label: CANAL NO YOUTUBE
         url: >-
           https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1
-        style: button
+        style: icon
         icon_class: fa-youtube
         new_window: true
         type: action
