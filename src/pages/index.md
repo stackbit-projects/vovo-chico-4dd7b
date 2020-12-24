@@ -6,6 +6,13 @@ sections:
     type: section_hero
     title: BIBLIOTECA DE PONTOS
     content: "\U0001F534 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas."
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: about
     type: section_content
     title: SOBRE
