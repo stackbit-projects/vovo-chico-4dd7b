@@ -25,7 +25,7 @@ sections:
     title: Posts Recentes
     posts_number: 4
     actions:
-      - label: veja o Blog
+      - label: veja o Biblioteca
         url: blog/index.html
         style: button
 template: advanced
