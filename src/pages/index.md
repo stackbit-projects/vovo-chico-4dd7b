@@ -10,7 +10,7 @@ sections:
       - label: CANAL NO YOUTUBE
         url: >-
           https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1
-        style: link
+        style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
