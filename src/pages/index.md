@@ -22,7 +22,7 @@ sections:
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Artigos Recentes Recent Posts
+    title: Artigos Recentes
     posts_number: 4
     actions:
       - label: View Blog
