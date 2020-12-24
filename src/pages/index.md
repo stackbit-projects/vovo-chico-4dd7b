@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: BIBLIOTECA DE PONTOS
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "\U0001F534 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas."
   - section_id: about
     type: section_content
     title: SOBRE
