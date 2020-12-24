@@ -8,7 +8,7 @@ sections:
     content: "\U0001F534 Vale lembrar que os pontos cantados e preces são todos tirados da internet e agregado ao nosso canal, para o fim didático dos umbandistas."
     actions:
       - label: CANAL NO YOUTUBE
-        url: 'https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg/videos'
+        url: 'https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg'
         style: link
         icon_class: lorem-ipsum
         new_window: false
