@@ -54,7 +54,7 @@
                 "new_window": true
             },
             {
-                "label": "Telegram",
+                "label": "telegram",
                 "url": "https://bit.ly/canal-telegram-vcp",
                 "style": "link",
                 "icon_class": "fa-telegram",
