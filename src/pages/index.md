@@ -11,7 +11,7 @@ sections:
         url: >-
           https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1
         style: button
-        icon_class: fa youtube
+        icon_class: fa-youtube
         new_window: true
         type: action
   - section_id: about
