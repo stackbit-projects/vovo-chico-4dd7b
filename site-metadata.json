@@ -40,6 +40,14 @@
                 "new_window": true
             },
             {
+                "label": "facebook",
+                "url": "https://web.facebook.com/vovochicopimenta",
+                "style": "button",
+                "icon_class": "fa-facebook",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "youtube",
                 "url": "https://www.youtube.com/channel/UCQdWrQlNuy2CAWrsGGDs_Wg?sub_confirmation=1",
                 "style": "icon",
@@ -52,14 +60,6 @@
                 "style": "icon",
                 "icon_class": "fa-telegram",
                 "new_window": true,
-                "type": "action"
-            },
-            {
-                "label": "facebook",
-                "url": "https://web.facebook.com/vovochicopimenta",
-                "style": "button",
-                "icon_class": "fa-facebook",
-                "new_window": false,
                 "type": "action"
             }
         ]
