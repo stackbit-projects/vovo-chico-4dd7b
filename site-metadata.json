@@ -33,18 +33,19 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/vovochicopimenta",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
+            },
+            {
+                "label": "facebook",
+                "url": "https://web.facebook.com/vovochicopimenta",
+                "style": "icon",
+                "icon_class": "fa-facebook",
+                "new_window": false,
+                "type": "action"
             },
             {
                 "label": "youtube",
