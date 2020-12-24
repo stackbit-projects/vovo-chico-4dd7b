@@ -1,11 +1,11 @@
 {
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "violet",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "title": "Vovô Chico Pimenta",
+        "tagline": "VOU BATER CABEÇA NO PÉ DO MEU CONGÁ. VOU PEDIR AXÉ E PROTEÇÃO PARA OGUM E IEMANJÁ. CURSO GRÁTIS DE UMBANDA",
+        "profile_img": "images/chico-pimenta-avatar_redondo.png",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
@@ -15,22 +15,17 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "biblioteca",
                 "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
+                "label": "sobre",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contato",
                 "url": "/contact/",
                 "style": "link"
             }
@@ -77,5 +72,5 @@
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=fresh\" target=\"_blank\" rel=\"noopener\">here</a>."
     },
-    "title": "Stackbit Fresh Theme"
+    "title": "Vovô Chico Pimenta"
 }
