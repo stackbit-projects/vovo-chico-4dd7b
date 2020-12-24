@@ -56,7 +56,7 @@
             {
                 "label": "telegram",
                 "url": "https://bit.ly/canal-telegram-vcp",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "fa-telegram",
                 "new_window": true,
                 "type": "action"
